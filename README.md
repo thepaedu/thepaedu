@@ -1,3 +1,7 @@
+
+<img src="banner.png" alt="Detail of Art Logo" width="100%" />
+
+
 ## Hi there 👋
 
 <!--
